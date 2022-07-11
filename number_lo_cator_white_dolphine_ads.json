@@ -2,12 +2,14 @@
     "fb_banner" : "1226311791505689_1226313264838875",
     "fb_interstitial" : "1226311791505689_1226313384838863",
     "fb_native" : "1226311791505689_1226313514838850",
+   
     "admob_pub_id": "",
     "admob_app_id": "",
     "admob_banner" : "",
     "admob_interstitial" :"",
     "admob_native" : "",
     "admob_open" : "",
+    
     "ad_type" : "1",
     "ad_pause":false,
     "new_pkg" : "com.wda.mobilenumbertracker.mobilenumberlocation.mobilenumberlocator.callerid.gpsnumbertracker",
