@@ -11,7 +11,7 @@
     "admob_open" : "",
     
     "ad_type" : "1",
-    "ad_pause":false,
+    "ad_pause":true,
     "new_pkg" : "com.wda.mobilenumbertracker.mobilenumberlocation.mobilenumberlocator.callerid.gpsnumbertracker",
     "is_version" : "false",
     "load_more":false
