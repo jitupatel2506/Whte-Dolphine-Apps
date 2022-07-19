@@ -2,16 +2,16 @@
   "fb_banner": "",
   "fb_interstitial": "",
   "fb_native": "",
-  "admob_pub_id": "pub-6134476816702914",
-  "admob_app_id": "ca-app-pub-6134476816702914~6534875769",
-  "admob_banner": "/21952429235,22644075336/TTS_TUBEMUSICDOWNLOADER_BANNER_AD_1",
-  "admob_interstitial": "/21952429235,22644075336/TTS_TUBEMUSICDOWNLOADER_INTERSTITIAL_2",
-  "admob_native": "/21952429235,22644075336/TTS_TUBEMUSICDOWNLOADER_NATIVE_AD_2",
-  "admob_open": "/21952429235,22644075336/TTS_TUBEMUSICDOWNLOADER_OPEN_AD_2",
+  "admob_pub_id": "",
+  "admob_app_id": "",
+  "admob_banner": "",
+  "admob_interstitial": "",
+  "admob_native": "",
+  "admob_open": "",
   "applovin_banner": "cca05e47892076db",
   "applovin_intestitial": "bbf2244183ae1f3a",
   "applovin_native": "3d5f194dad4100a6",
   "new_pkg": "com.ffskintool.fffskin.fffskintool.emote.elitepass.ffemotemax.ffskintool.skintoolspro.ffskintoolpro",
   "is_version": "false",
-  "ad_type": "1"
+  "ad_type": "2"
 }
