@@ -10,7 +10,7 @@
     "admob_native" : "",
     "admob_open" : "",
     
-    "ad_type" : "1",
+    "ad_type" : "0",
     "ad_pause":true,
     "new_pkg" : "com.wda.mobilenumbertracker.mobilenumberlocation.mobilenumberlocator.callerid.gpsnumbertracker",
     "is_version" : "false",
