@@ -3,15 +3,15 @@
     "fb_interstitial" : "1226311791505689_1226313384838863",
     "fb_native" : "1226311791505689_1226313514838850",
    
-    "admob_pub_id": "",
-    "admob_app_id": "",
-    "admob_banner" : "",
-    "admob_interstitial" :"",
-    "admob_native" : "",
-    "admob_open" : "",
+    "admob_pub_id": "pub-6134476816702914",
+    "admob_app_id": "ca-app-pub-6134476816702914~1042390176",
+    "admob_banner" : "ca-app-pub-6134476816702914/7033083457",
+    "admob_interstitial" :"ca-app-pub-6134476816702914/4406920113",
+    "admob_native" : "ca-app-pub-6134476816702914/3158800516",
+    "admob_open" : "ca-app-pub-6134476816702914/9532637176",
     
-    "ad_type" : "0",
-    "ad_pause":true,
+    "ad_type" : "1",
+    "ad_pause":false,
     "new_pkg" : "com.wda.mobilenumbertracker.mobilenumberlocation.mobilenumberlocator.callerid.gpsnumbertracker",
     "is_version" : "false",
     "load_more":false
