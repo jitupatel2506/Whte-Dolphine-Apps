@@ -1,6 +1,6 @@
 {
-  "error": true,
-  "isNewApp":true,
+  "error": false,
+  "isNewApp":false,
   "app_pkg": "com.spintowindiamond.ffdiamond.scratchdiamond.guideandfreediamondsforfree.spintoffdiamond.winffdiamond.lootway",
    "fbBannr": "933350910714945_933351064048263",
   "fbInter": "933350910714945_996245541092148",
