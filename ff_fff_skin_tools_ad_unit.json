@@ -4,7 +4,7 @@
   "app_pkg": "com.videodly.tubemusic",
    "fbBannr": "933350910714945_933351064048263",
   "fbInter": "933350910714945_996245541092148",
-  "fbNative": "933350910714945_933351214048248",
+  "fbNative": "",
   "fbNativeBnnr": "",
   "AppodealAppID":"5e0eb45eee23c2e52dad5b0e0a45d52d45e8b95dd5340fc7",
   "AdmobBannr": "ca-app-pub-3940256099942544/6300978111",
@@ -14,8 +14,8 @@
   "AdmobOpenAds": "ca-app-pub-3940256099942544/3419835294",
   "admob_pub_id": "pub-3940256099942544",
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-  "adType": "admob",
+  "adType": "fb",
   "loadMore": false,
   "adStatus": "admob",
-  "adMobTime":40
+  "adMobTime":60
 }
