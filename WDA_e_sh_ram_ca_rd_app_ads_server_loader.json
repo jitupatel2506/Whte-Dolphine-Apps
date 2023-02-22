@@ -1,0 +1,43 @@
+{
+  "error": false,
+  "isNewApp":false,
+  "app_pkg": "com.vidchat.videodownloader.video.downloader",
+  "fbBannr": "YOUR_PLACEMENT_ID",
+  "fbInter": "YOUR_PLACEMENT_ID",
+  "fbNative": "YOUR_PLACEMENT_ID",
+  "fbNativeBnnr": "YOUR_PLACEMENT_ID",
+  "ApplovinBannr": "b18b89989053408e",
+  "ApplovinInter": "ec4c6cd26e39fb01",
+  "ApplovinNative": "f03630e5ec6fd753",
+  "ApplovinOpenAds": "1043ea8bc080fee2",
+  "AdmobBannr": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInter": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobInterSplash":"",
+  "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobOpenAds": "ca-app-pub-3940256099942544/3419835294",
+  
+  "admob_pub_id": "pub-8295793237549637",
+  "admob_app_id": "ca-app-pub-8295793237549637~1512167265",
+  "adType": "admob",
+  "adStatus": "admob",
+  "loadMore":true,
+  "Advertise_List": [
+    {
+     
+	    "ad_id": 0,
+	    "app_name": "Video Player All Format",
+	    "app_packageName": "com.videoplayer.musicplayer.audioplayer.videoplayerallformat",
+	    "app_logo": "https://play-lh.googleusercontent.com/5adeqWGt4RLISBe1zfHo65b4KWo2BVc1LTz5JFOGvheE7ohafUSChcQBZaUsrdMGeTU=w240-h480",
+	    "app_banner": "https://play-lh.googleusercontent.com/qoj2RKinrIxuSKXmzef0De8kQ5_wWMy_7ZlD0eO-vAdgkTwIftAMqjqQ3US3SUKaEQ=w416-h235",
+        "app_shortDecription": "HD video player helps you to play video which is available on your device",
+		"app_rating": "4.4",
+		"app_download": "1000",
+		"app_AdFormat": "Banner",
+		"app_buttonName": "Install"
+	  
+    }
+  ],
+  "new_pkg": "com.ffskintool.fffskin.fffskintool.emote.elitepass.ffemotemax.ffskintool.skintoolspro.ffskintoolpro",
+  "is_version": "false",
+  "adMobTime":40
+}
